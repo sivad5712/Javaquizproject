@@ -40,7 +40,7 @@ This project includes **two fully functional parts**:
 
 ## 📦 Folder Structure
 
-```bash
+
 JavaQuizProject/
 ├── javaquizcode/         # 🧠 Java source code
 │   ├── QuizApp.java       - Main application file
@@ -54,7 +54,6 @@ JavaQuizProject/
 │   └── README.md          - Site-specific documentation
 │
 └── README.md             # 📘 This detailed documentation file
-
 
 ## 🧠 Java Quiz Console App
 
@@ -124,7 +123,7 @@ Your answer (1-4): 2
 
 You scored: 9/10
 
-##Technologies Used
+## Technologies Used
 Technology	Purpose
 Java	Core logic and backend quiz functionality
 Scanner Class	Capturing user input via console
@@ -137,7 +136,7 @@ GitHub Pages	Website hosting
 VS Code	Code editing
 PowerShell	Running Java and Git commands
 
-##Learning Objectives
+## Learning Objectives
 his project helped me:
 
 ✅ Practice Java syntax (variables, arrays, loops, conditions)
@@ -153,7 +152,8 @@ his project helped me:
 ✅ Deploy a static website publicly with GitHub Pages
 
 ✅ Write a full, structured README.md for real-world presentation
-##⚙️ How to Run This Project
+
+## ⚙️ How to Run This Project
 🧠 Java Console App
 Open terminal inside the javaquizcode/ folder
 
@@ -171,22 +171,22 @@ Edit
 java QuizApp
 Make sure Java is installed and added to your system PATH
 
-##🌐 Website
+## 🌐 Website
 Open Javaquizsite/index.html in any web browser
 
 Or visit the live site:
 👉 https://sankeerth776.github.io/Javaquizsite
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 Sankeerth
 🎓 Computer Science Graduate
 🔗 GitHub: @sankeerth776
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License.
 Feel free to use, modify, or build upon this code for learning and portfolios.
 
-##🚀 What's Next?
+## 🚀 What's Next?
 Here are a few ideas to grow the project:
 
 🖼️ Build a GUI version with Java Swing or JavaFX
@@ -202,3 +202,4 @@ Here are a few ideas to grow the project:
 
 
 ```
+
